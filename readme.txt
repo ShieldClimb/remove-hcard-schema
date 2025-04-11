@@ -3,8 +3,8 @@ Contributors: shieldclimb
 Donate link: https://shieldclimb.com/
 Tags: hCard Schema Removal, Structured Data Cleanup, SEO Optimization, Fix Schema Errors, remove hCard
 Requires at least: 5.8
-Tested up to: 6.7
-Stable tag: 1.0.0
+Tested up to: 6.8
+Stable tag: 1.0.1
 Requires PHP: 7.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
@@ -60,6 +60,10 @@ If your theme or another plugin is still outputting hCard schema after using thi
 2. screenshot-2.png
 
 == ChangeLog ==
+
+= V1.0.1 =
+
+* **Updated**: Tested up to WordPress 6.8
 
 = V1.0.0 =
 

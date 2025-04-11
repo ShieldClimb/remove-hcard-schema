@@ -4,9 +4,9 @@
  * Plugin Name: ShieldClimb – Remove hCard Schema
  * Plugin URI: https://shieldclimb.com/free-woocommerce-plugins/remove-hcard-schema/
  * Description: Boost WordPress SEO by removing outdated hCard microformat and optimizing schema, fixing conflicts for better search rankings and performance.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Requires at least: 5.8
- * Tested up to: 6.7
+ * Tested up to: 6.8
  * Requires PHP: 7.2
  * Author: shieldclimb.com
  * Author URI: https://shieldclimb.com/about-us/
