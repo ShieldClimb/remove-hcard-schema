@@ -36,6 +36,9 @@ ShieldClimb's **[Remove hCard Schema](https://shieldclimb.com/free-woocommerce-p
 
 ## 📜 Changelog
 
+### v1.0.2
+- Updated: Improved regex and safer output buffering
+
 ### v1.0.1
 - Updated: Tested up to WordPress 6.8
 
